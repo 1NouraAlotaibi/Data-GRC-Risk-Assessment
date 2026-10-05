@@ -4,7 +4,7 @@ A fictional GRC assessment project developed using Microsoft Excel and Power BI 
 
 ## Dashboard
 
-![GRC Risk & Compliance Dashboard](GRC Dashboard.png)
+![GRC Risk & Compliance Dashboard](GRCDashboard.png)
 
 ## Project Objective
 
