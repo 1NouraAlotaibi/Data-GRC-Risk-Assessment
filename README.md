@@ -19,7 +19,7 @@ The objective of this project is to simulate a GRC assessment and transform iden
 
 * `GRC_Assessment.xlsx` — GRC assessment source data
 * `GRC_Risk_Compliance_Dashboard.pbix` — Power BI dashboard
-* `GRC Dashboard.png` — Dashboard preview
+* `GRC_Dashboard.png` — Dashboard preview
 
 ## Assessment Areas
 
